@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Developer
 --------------------
 
-I have just over 2 years of experience as a junior software engineer in Kuehne Nagel. I've already contributed to migrating a global Air/Sea Logistics transport management system to web, shifting towards a more cross functional working approach with DevOps. and assisted with managing and creating several technical designs and APIs. 
+I have over 4 years of experience as a software engineer in Kuehne Nagel. I've already contributed to migrating a global Air/Sea Logistics transport management system to web, shifting towards a more cross functional working approach with DevOps. and assisted with managing and creating several technical designs and APIs. 
 Prior to this role, I completed two curricular internships. One in which I had to implement a framework to support data migration between different OutSystems environments and another to replace an old technology (legacy) to build data grids and development of a new .NET WEB API.
 Ideally, I would like to continue to specialise in full stack engineering, with a preference for Backend and Databases, an area where I know I can be most valuable.
 
